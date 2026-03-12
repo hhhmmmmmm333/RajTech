@@ -27,10 +27,10 @@ export default function Hero() {
                             The World's Leading Blockchain Ecosystem
                         </div>
                         <h1 className="text-5xl lg:text-7xl font-extrabold tracking-tight leading-[1.1] mb-6 text-white text-wrap">
-                            Secure Your <span className="gradient-text">Crypto Future</span> with Binance Analysis
+                            Secure Your <span className="gradient-text">Crypto Future</span> with BnbScan
                         </h1>
                         <p className="text-xl text-[#848e9c] mb-8 max-w-xl leading-relaxed">
-                            Analyze wallet health, detect risks, and protect your digital assets with Binance's institutional-grade security engine. Real-time scanning, zero private keys required.
+                            Analyze wallet health, detect risks, and protect your digital assets with BnbScan's institutional-grade security engine. Real-time scanning, zero private keys required.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4">
                             <button
@@ -49,7 +49,7 @@ export default function Hero() {
                             </div>
                             <div className="flex items-center gap-2">
                                 <ShieldCheck size={16} className="text-[#fcd535]" />
-                                <span>Binance Secured</span>
+                                <span>BSC Secured</span>
                             </div>
                         </div>
                     </motion.div>

@@ -235,7 +235,7 @@ export default function WalletAnalyzer() {
                                 Check Your <span className="text-[#fcd535]">USDT Wallet</span> Security
                             </h2>
                             <p className="text-xl text-[#848e9c] mb-8 leading-relaxed">
-                                Advanced blockchain analysis using Binance node data to determine if your USDT wallet is <strong>safe, valid, and free</strong> from any reported suspicious activity.
+                                Advanced blockchain analysis using BSC node data to determine if your USDT wallet is <strong>safe, valid, and free</strong> from any reported suspicious activity.
                             </p>
 
                             <ul className="space-y-4 mb-10">

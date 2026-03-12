@@ -42,7 +42,7 @@ export default function ContactUs() {
                                     </div>
                                     <div>
                                         <h4 className="font-bold text-white mb-2 text-lg">Email Inquiry</h4>
-                                        <p className="text-[#848e9c] text-base hover:text-white transition-colors cursor-pointer">support@binance-analysis.com</p>
+                                        <p className="text-[#848e9c] text-base hover:text-white transition-colors cursor-pointer">support@bnbscan.com</p>
                                     </div>
                                 </div>
 

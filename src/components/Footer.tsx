@@ -19,10 +19,10 @@ export default function Footer() {
                                     className="object-contain"
                                 />
                             </div>
-                            <span className="text-xl font-bold tracking-tight text-white uppercase">Binance</span>
+                            <span className="text-xl font-bold tracking-tight text-white uppercase">BnbScan</span>
                         </Link>
                         <p className="text-[#848e9c] text-sm max-w-sm leading-relaxed mb-6">
-                            Binance is the world's leading blockchain ecosystem and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume.
+                            BnbScan is the world's leading blockchain ecosystem and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume.
                         </p>
                         <div className="flex gap-4">
                             {[Twitter, Github, Linkedin, MessageCircle].map((Icon, i) => (
@@ -42,31 +42,11 @@ export default function Footer() {
                             <li><Link href="#our-team" className="hover:text-[#fcd535] transition-colors">Our Team</Link></li>
                         </ul>
                     </div>
-
-                    <div>
-                        <h4 className="font-bold mb-6 text-white text-wrap">Support</h4>
-                        <ul className="space-y-4 text-sm text-[#848e9c]">
-                            <li><Link href="#" className="hover:text-[#fcd535] transition-colors">Help Center</Link></li>
-                            <li><Link href="#" className="hover:text-[#fcd535] transition-colors">API Reference</Link></li>
-                            <li><Link href="#" className="hover:text-[#fcd535] transition-colors">Security Guide</Link></li>
-                            <li><Link href="#" className="hover:text-[#fcd535] transition-colors">Listing Application</Link></li>
-                        </ul>
-                    </div>
-
-                    <div>
-                        <h4 className="font-bold mb-6 text-white text-wrap">Service</h4>
-                        <ul className="space-y-4 text-sm text-[#848e9c]">
-                            <li><Link href="#" className="hover:text-[#fcd535] transition-colors">Privacy Policy</Link></li>
-                            <li><Link href="#" className="hover:text-[#fcd535] transition-colors">Terms of Use</Link></li>
-                            <li><Link href="#" className="hover:text-[#fcd535] transition-colors">Cookie Policy</Link></li>
-                            <li><Link href="#" className="hover:text-[#fcd535] transition-colors">Risk Warning</Link></li>
-                        </ul>
-                    </div>
                 </div>
 
                 <div className="pt-10 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
                     <p className="text-xs text-[#848e9c]">
-                        © {new Date().getFullYear()} BINANCE. All rights reserved.
+                        © {new Date().getFullYear()} BnbScan. All rights reserved.
                     </p>
                     <div className="flex items-center gap-6">
                         <Link href="#" className="text-xs text-[#848e9c] hover:text-[#fcd535] flex items-center gap-1 group">

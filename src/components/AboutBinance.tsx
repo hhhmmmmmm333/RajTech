@@ -21,13 +21,13 @@ export default function AboutBinance() {
                         <h2 className="text-4xl md:text-5xl font-bold mb-8 text-white">Our <span className="text-[#fcd535]">Story</span></h2>
                         <div className="space-y-6 text-lg text-[#848e9c] leading-relaxed">
                             <p>
-                                Founded in 2023, Binance Analysis emerged from a simple yet ambitious goal: to restore trust in the decentralized world. As the Web3 landscape grew, so did the complexity of threats, leaving many users vulnerable.
+                                Founded in 2023, BnbScan emerged from a simple yet ambitious goal: to restore trust in the decentralized world. As the Web3 landscape grew, so did the complexity of threats, leaving many users vulnerable.
                             </p>
                             <p>
                                 What started as a specialized research project into smart contract vulnerabilities has evolved into the world's most trusted real-time blockchain analysis platform. Our team of elite security engineers and data scientists recognized that security shouldn't just be reactive—it should be predictive.
                             </p>
                             <p>
-                                Today, we provide the backbone for thousands of secure transactions daily, leveraging the vast resources and institutional-grade security infrastructure of the Binance ecosystem.
+                                Today, we provide the backbone for thousands of secure transactions daily, leveraging the vast resources and institutional-grade security infrastructure of the BSC ecosystem.
                             </p>
                         </div>
                     </motion.div>

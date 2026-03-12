@@ -53,7 +53,7 @@ export default function Header() {
                                 className="object-contain"
                             />
                         </div>
-                        <span className="text-xl font-bold tracking-tight text-white uppercase">Binance</span>
+                        <span className="text-xl font-bold tracking-tight text-white uppercase">BnbScan</span>
                     </Link>
 
                     {/* Desktop Nav */}

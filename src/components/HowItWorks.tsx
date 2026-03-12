@@ -11,7 +11,7 @@ const steps = [
     },
     {
         title: "Scan Network",
-        description: "Binance nodes fetch your transaction history across 500+ supported blockchains.",
+        description: "BSC nodes fetch your transaction history across 500+ supported blockchains.",
         icon: Database,
     },
     {
@@ -42,7 +42,7 @@ export default function HowItWorks() {
                                 Trustless Architecture
                             </div>
                             <p className="text-sm text-[#848e9c]">
-                                Binance Analysis uses read-only public data. We never ask for permissions to spend or move your funds.
+                                BscScan uses read-only public data. We never ask for permissions to spend or move your funds.
                             </p>
                         </div>
                     </div>

@@ -17,7 +17,7 @@ export default function Security() {
                             </div>
                             <h2 className="text-4xl font-bold mb-6 text-white">Your Assets Are <span className="text-[#fcd535]">SAFE</span></h2>
                             <p className="text-lg text-[#848e9c] mb-8 leading-relaxed">
-                                Trust is our most valuable asset. We've built Binance Analysis with a transparency-first approach, ensuring institutional-grade protection for every user.
+                                Trust is our most valuable asset. We've built BnbScan with a transparency-first approach, ensuring institutional-grade protection for every user.
                             </p>
 
                             <div className="space-y-6">
@@ -61,20 +61,20 @@ export default function Security() {
                                             <span className="px-3 py-1 rounded-full bg-green-500/10 text-green-400 text-xs font-bold">AES-256 ACTIVE</span>
                                         </div>
                                         <div className="p-4 bg-white/[0.02] rounded-xl border border-white/5 flex items-center justify-between">
-                                            <span className="text-sm text-[#848e9c]">Binance Insurance (SAFE)</span>
+                                            <span className="text-sm text-[#848e9c]">BnbScan Insurance (SAFE)</span>
                                             <span className="text-xs text-[#fcd535] font-bold">COVERED</span>
                                         </div>
                                         <div className="p-4 bg-white/[0.02] rounded-xl border border-white/5 flex items-center justify-between">
                                             <span className="text-sm text-[#848e9c]">Proof of Reserves</span>
                                             <span className="text-xs text-[#fcd535] underline cursor-pointer flex items-center gap-1">
-                                                Verify on Binance <ExternalLink size={12} />
+                                                COVERED
                                             </span>
                                         </div>
                                     </div>
 
                                     <div className="mt-8 pt-8 border-t border-white/5 text-center">
                                         <p className="text-xs text-[#848e9c] italic">
-                                            "Binance Analysis uses non-custodial scanning — we never request private keys or recovery phrases."
+                                            "BnbScan uses non-custodial scanning — we never request private keys or recovery phrases."
                                         </p>
                                     </div>
                                 </div>

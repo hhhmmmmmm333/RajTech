@@ -6,7 +6,7 @@ import { Shield, Lock, Globe, Zap, Cpu, BarChart3 } from "lucide-react"
 const features = [
     {
         title: "SAFE Risk Detection",
-        description: "Scan every incoming and outgoing transaction for known malicious contracts using Binance's global threat database.",
+        description: "Scan every incoming and outgoing transaction for known malicious contracts using BnbScan's global threat database.",
         icon: Shield,
         color: "text-[#fcd535]",
         bg: "bg-[#fcd535]/10"
@@ -41,7 +41,7 @@ const features = [
     },
     {
         title: "AI Analysis Engine",
-        description: "Proprietary Binance AI models identify honeypots and social engineering patterns before you sign.",
+        description: "Proprietary BscScan's AI models identify honeypots and social engineering patterns before you sign.",
         icon: Cpu,
         color: "text-[#fcd535]",
         bg: "bg-[#fcd535]/10"
@@ -53,7 +53,7 @@ export default function Features() {
         <section id="features" className="py-24 bg-[#0b0e11]">
             <div className="container mx-auto px-4 md:px-6">
                 <div className="max-w-3xl mx-auto text-center mb-16">
-                    <h2 className="text-3xl md:text-5xl font-bold mb-6 text-white">Binance <span className="text-[#fcd535]">Security</span> Ecosystem</h2>
+                    <h2 className="text-3xl md:text-5xl font-bold mb-6 text-white">BSC <span className="text-[#fcd535]">Security</span> Ecosystem</h2>
                     <p className="text-lg text-[#848e9c]">Professional tools designed to provide the highest level of security for your digital assets.</p>
                 </div>
 

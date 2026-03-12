@@ -35,7 +35,7 @@ export default function WhyChooseUs() {
                         viewport={{ once: true }}
                         transition={{ duration: 0.8 }}
                     >
-                        <h2 className="text-4xl md:text-5xl font-bold mb-8 text-white">Why Choose <span className="text-[#fcd535]">Binance</span>?</h2>
+                        <h2 className="text-4xl md:text-5xl font-bold mb-8 text-white">Why Choose <span className="text-[#fcd535]">BnbScan</span>?</h2>
                         <p className="text-lg text-[#848e9c] mb-10 leading-relaxed max-w-xl">
                             Our unique approach to blockchain security combines cutting-edge AI and human expertise to provide you with the most reliable protection in the market.
                         </p>
@@ -66,7 +66,7 @@ export default function WhyChooseUs() {
                             </div>
                             <div>
                                 <h3 className="text-2xl font-bold text-white">Real-Time Performance</h3>
-                                <p className="text-sm text-[#848e9c]">Built on Binance high-speed nodes</p>
+                                <p className="text-sm text-[#848e9c]">Built on high-speed BSC nodes</p>
                             </div>
                         </div>
                         <p className="text-[#848e9c] mb-10 leading-relaxed">
